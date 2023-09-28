@@ -59,8 +59,9 @@ Pineapples are incredibly versatile and can be used in various culinary applicat
 ## Learn More
 
 If you'd like to delve deeper into the world of pineapples, here are some helpful resources:
+
 - <a href="https://en.wikipedia.org/wiki/Pineapple" target="_blank">Wikipedia: Pineapple</a>
 - <a href="https://www.foodnetwork.com/recipes/photos/pineapple-recipes" target="_blank">Pineapple Recipes</a>
 - <a href="https://www.webmd.com/diet/ss/slideshow-health-benefits-pineapple" target="_blank">Nutrition and Health Benefits</a>
-
+  <br>
 Enjoy exploring the delightful world of pineapples!
