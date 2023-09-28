@@ -54,7 +54,6 @@ Pineapples are incredibly versatile and can be used in various culinary applicat
     <td>Protein</td>
     <td>0.5 grams</td>
   </tr>
-  
 <h6> Source: <a href="https://www.nutritionix.com/food/pineapple/100-g" target="_blank">Nutritionix</a></h6>
 
 ## Learn More
