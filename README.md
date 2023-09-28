@@ -1,6 +1,7 @@
 # Pineapples
 
-![Pineapple Image](https://example.com/pineapple-image.jpg)
+
+<img src="https://m.media-amazon.com/images/I/71+qAJehpkL.jpg" height="300" width="300">
 
 Pineapples are a tropical fruit known for their sweet and tangy flavor. They are a favorite among many due to their unique taste and versatility in various dishes. Let's explore some interesting facts about pineapples:
 
@@ -14,7 +15,7 @@ Pineapples are believed to have originated in South America, particularly in the
 
 ## Appearance
 
-![Pineapple Cross-Section](https://example.com/pineapple-cross-section.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Pineapple_and_cross_section.jpg/714px-Pineapple_and_cross_section.jpg" width="300" height="300">
 
 A typical pineapple is cylindrical in shape, with a crown of spiky leaves at the top. The outer skin is tough and covered in hexagonal patterned eyes. The flesh is juicy, fibrous, and golden-yellow in color, surrounding a hard core.
 
