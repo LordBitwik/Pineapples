@@ -55,13 +55,13 @@ Pineapples are incredibly versatile and can be used in various culinary applicat
     <td>0.5 grams</td>
   </tr>
   
-<h6> Source: [Nutritionix](https://www.nutritionix.com/food/pineapple/100-g) </h6>
+<h6> Source: <a href="https://www.nutritionix.com/food/pineapple/100-g" target="_blank">Nutritionix</a></h6>
 
 ## Learn More
 
 If you'd like to delve deeper into the world of pineapples, here are some helpful resources:
-- [Wikipedia: Pineapple](https://en.wikipedia.org/wiki/Pineapple)
-- [Pineapple Recipes](https://www.foodnetwork.com/recipes/photos/pineapple-recipes)
-- [Nutrition and Health Benefits](https://www.webmd.com/diet/ss/slideshow-health-benefits-pineapple)
+- <a href="https://en.wikipedia.org/wiki/Pineapple" target="_blank">Wikipedia: Pineapple</a>
+- <a href="https://www.foodnetwork.com/recipes/photos/pineapple-recipes" target="_blank">Pineapple Recipes</a>
+- <a href="https://www.webmd.com/diet/ss/slideshow-health-benefits-pineapple" target="_blank">Nutrition and Health Benefits</a>
 
 Enjoy exploring the delightful world of pineapples!
